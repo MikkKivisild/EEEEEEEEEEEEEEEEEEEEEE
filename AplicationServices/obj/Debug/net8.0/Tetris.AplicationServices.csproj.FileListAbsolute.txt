@@ -1,0 +1,17 @@
+C:\Users\opilane\source\repos\TetrisTARpe23\AplicationServices\bin\Debug\net8.0\Tetris.AplicationServices.deps.json
+C:\Users\opilane\source\repos\TetrisTARpe23\AplicationServices\bin\Debug\net8.0\Tetris.AplicationServices.dll
+C:\Users\opilane\source\repos\TetrisTARpe23\AplicationServices\bin\Debug\net8.0\Tetris.AplicationServices.pdb
+C:\Users\opilane\source\repos\TetrisTARpe23\AplicationServices\obj\Debug\net8.0\Tetris.AplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\TetrisTARpe23\AplicationServices\obj\Debug\net8.0\Tetris.AplicationServices.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\TetrisTARpe23\AplicationServices\obj\Debug\net8.0\Tetris.AplicationServices.AssemblyInfo.cs
+C:\Users\opilane\source\repos\TetrisTARpe23\AplicationServices\obj\Debug\net8.0\Tetris.AplicationServices.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\TetrisTARpe23\AplicationServices\obj\Debug\net8.0\Tetris.AplicationServices.dll
+C:\Users\opilane\source\repos\TetrisTARpe23\AplicationServices\obj\Debug\net8.0\refint\Tetris.AplicationServices.dll
+C:\Users\opilane\source\repos\TetrisTARpe23\AplicationServices\obj\Debug\net8.0\Tetris.AplicationServices.pdb
+C:\Users\opilane\source\repos\TetrisTARpe23\AplicationServices\obj\Debug\net8.0\ref\Tetris.AplicationServices.dll
+C:\Users\opilane\source\repos\TetrisTARpe23\AplicationServices\bin\Debug\net8.0\Tetris.Core.dll
+C:\Users\opilane\source\repos\TetrisTARpe23\AplicationServices\bin\Debug\net8.0\Tetris.Data.dll
+C:\Users\opilane\source\repos\TetrisTARpe23\AplicationServices\bin\Debug\net8.0\Tetris.Data.pdb
+C:\Users\opilane\source\repos\TetrisTARpe23\AplicationServices\bin\Debug\net8.0\Tetris.Core.pdb
+C:\Users\opilane\source\repos\TetrisTARpe23\AplicationServices\obj\Debug\net8.0\Tetris.AplicationServices.csproj.AssemblyReference.cache
+C:\Users\opilane\source\repos\TetrisTARpe23\AplicationServices\obj\Debug\net8.0\Tetris.A.39D93F77.Up2Date
